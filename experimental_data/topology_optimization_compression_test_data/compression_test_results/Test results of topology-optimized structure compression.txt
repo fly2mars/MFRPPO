@@ -1,0 +1,10 @@
+样件					峰值载荷（N）		峰值应力(MPa)
+Sample1(F-C)			4068.10				16.1
+Sample2(F-D)			4279.86				17.0
+Sample3(F-K)			4569.70				18.1
+Sample4(F-M)		5006.59				19.9
+Sample5(Z-C)			4642.78				18.4
+Sample6(Z-D)			5225.61				20.7
+Sample7(Z-K)			4754.45				18.9
+Sample8(Z-M)		4801.57				19.1
+Sample9(F-Z-M)		4445.38				17.6
